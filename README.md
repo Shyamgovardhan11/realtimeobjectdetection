@@ -15,7 +15,7 @@ Google Colab–friendly code
 
 Below is one of the detection results produced by the model:
 
-<img width="1918" height="965" alt="detection_result" src="https://github.com/user-attachments/assets/0e0d62b0-00ab-4bc8-b0d5-f9eddcf0eccc" />
+<img width="1919" height="968" alt="Screenshot 2025-11-16 113722" src="https://github.com/user-attachments/assets/c72f0f0a-511e-4459-af88-a3ba69215568" />
 
 Tech Stack:
 
